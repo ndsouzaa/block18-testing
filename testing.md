@@ -14,6 +14,7 @@
 * expect the new array to only contain one of each number
 * expect the function to sort into ascending order
 * even numbers not included
+* :( undefined if no odd numbers
 ## Functional Tests
   ### 
   * as a user, i can checkout as a guest or with my information 
@@ -22,3 +23,4 @@
   * redirected to account creation or guest usage based on decision 
   * when user selects the checkout button, they proceed to payment
   * :( error if payment information is incorrect
+  * :( error if login information is incorrect
